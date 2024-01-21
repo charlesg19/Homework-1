@@ -1,0 +1,5 @@
+print("Input two numbers:")
+num1 = int(input())
+num2 = int(input())
+print("The product of the two numbers is:", num1 * num2)
+print("The quotient of the two numbers is:", num1 / num2)
